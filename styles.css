@@ -1,0 +1,125 @@
+body {
+  font-family: initial;
+  background-color: #ffe3e3;
+}
+
+p {
+  color: #333;
+  font-size: 15px;
+  font-style: initial;
+  margin-bottom: 10px;
+  margin-left: 12rem;
+}
+
+header h1,
+header h2 {
+  display: inline;
+  margin-right: 158px;
+}
+
+h4 {
+  color: #ee9090;
+  font-size: 30px;
+  margin-left: 170px;
+  margin-top: 10px;
+}
+.mtkl {
+  margin-left: 20rem;
+  font-size: 18px;
+}
+
+h2 {
+  margin-left: 25px;
+  margin-top: 20px;
+  font-style: serif;
+  color: aliceblue;
+  font-size: 18px;
+}
+
+h5 {
+  color: #ee9090;
+  font-size: 25px;
+  margin-left: 530px;
+  margin-top: 10px;
+}
+
+table {
+  text-align: center;
+  margin: 30px 300px;
+}
+
+td {
+  width: 40px;
+  height: 40px;
+}
+
+td input {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.block {
+  background-color: #ee9090;
+}
+
+header h1 {
+  text-align: center;
+  color: white;
+  flex: auto;
+  background-color: #ee9090;
+  margin-left: 12.5rem;
+}
+
+header {
+  background-color: #ee9090;
+  height: 3.4rem;
+}
+
+main {
+  margin: 20px 0px;
+}
+
+.github {
+  color: white;
+  text-decoration: none;
+}
+
+.btn-pink {
+  background-color: #ee9090;
+  border-color: #ee9090;
+  color: white;
+}
+
+.btn-pink:hover {
+  background-color: #e08888;
+  border-color: #e08888;
+  color: white;
+}
+
+.btn-secondary {
+  background-color: #ffa9a9; 
+  border-color: #ffa9a9; 
+  margin-left: 430px;
+}
+
+.btn-secondary:hover {
+  opacity: 0.9;
+  background-color: #ec9d9d; 
+  border-color: #ec9d9d;
+}
+
+.btn-success{
+  background-color: #ee9090; 
+  border-color: #ee9090; 
+}
+
+.btn-success:hover {
+  opacity: 0.9;
+  background-color: #d68282; 
+  border-color: #d68282;
+}
+
+
